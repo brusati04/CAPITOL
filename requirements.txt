@@ -1,0 +1,12 @@
+seaborn
+plotly
+nltk
+tensorflow
+scikit-learn
+xgboost
+wordninja
+datasets
+emoji
+wordcloud
+gensim==4.3.3
+fasttext
